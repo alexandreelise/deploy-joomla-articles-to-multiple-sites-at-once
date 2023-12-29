@@ -37,4 +37,21 @@ php index.php
 
 ```
 
-## You could also read the slides from [https://slides.woluweb.be/api](https://slides.woluweb.be/api/api.html)
+## Presentation
+[Marc Dechèvre slides presenting Joomla! Api examples](https://slides.woluweb.be/api/api.html)
+
+
+## Special Thanks
+- Peter MARTIN (@pe7er) for ignition of showcasing the Joomla Api at JoomlaDay D-A-C-H event
+- Marc DECHÈVRE (@woluweb) a.k.a. Custom King for some ideas that led me to create this repo.
+- Tim DAVIS (@basicjoomla) for hosting the live video on his popular YouTube Channel about Joomla : BasicJoomla
+
+
+## Videos
+
+This presentation was made at
+- BasicJoomla 2022.11.23 [video - English](https://www.youtube.com/watch?v=ZH3a4MHB718)
+- JoomlaDay NL 2023.05.13 [video - English](https://www.youtube.com/watch?v=bhGYCWFdaRw)
+- JoomlaDay FR 2023.06.17 [video - French](https://www.youtube.com/watch?v=3wS8bgFpfYg)
+- JUG London 2023.06.20 [video - English](https://www.youtube.com/watch?v=TfGr80O3UeA)
+- JoomlaDay D-A-CH 2023.09.16 [video - English](https://www.youtube.com/watch?v=WeI6wIUxGbM)
