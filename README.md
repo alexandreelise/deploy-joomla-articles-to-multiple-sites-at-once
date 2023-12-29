@@ -37,4 +37,4 @@ php index.php
 
 ```
 
-## You could also read the slides from [https://slides.woluweb.be/api](https://slides.woluweb.be/api/api.html)https://slides.woluweb.be/api/api.html
+## You could also read the slides from [https://slides.woluweb.be/api](https://slides.woluweb.be/api/api.html)
