@@ -28,7 +28,7 @@ Deploy Joomla articles to multiple destinations Joomla sites at once. Streamline
  - Clone this repository ```sh git clone https://github.com/alexandreelise/deploy-joomla-articles-to-multiple-sites-at-once ```
  - or Download this repository and unzip the archive
  - Go into the directory then type
- - Follow the intructions in the commented code of the ``̀`sh index.php ``` file
+ - Follow the intructions in the commented code of the ```sh index.php ``` file
  - Then type this command
  
 ```sh
